@@ -46,9 +46,6 @@ def ler_config(S):
 
 
 
-
-
-
 #T12
 def nova_pessoa(idade=0):
     global CC
